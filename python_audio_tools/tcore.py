@@ -1,0 +1,5 @@
+
+
+
+class tCore:
+	pass
